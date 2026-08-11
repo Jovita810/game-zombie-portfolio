@@ -1,6 +1,6 @@
 # game-zombie-portfolio
 
-Game zombie simple yang dibuat menggunakan Unity dan C# dengan sistem State
+Game zombie sederhana yang dibuat menggunakan Unity dan C# dengan sistem State
 untuk mengatur perilaku zombie.
 
 ## Fitur
